@@ -21,4 +21,4 @@ while attempt == 'y' or attempt == 'Y':
     if player == computer:
         print(f'You guessed right! the number was {computer}')
     else:
-        print(f'You wrong, the number was {computer}')
+        print(f'You're wrong, the number was {computer}')
